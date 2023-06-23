@@ -1,10 +1,10 @@
 
 # T20 WorldCup Data Analytics  
  
-![icons8-power-bi-144](https://github.com/rounakgarg68/T20-Cricket-WorldCup-Data-Analytics/assets/87636522/2d4e9755-ab55-4430-baf1-4a1fb60bb27a) 
-![icons8-python-144](https://github.com/rounakgarg68/T20-Cricket-WorldCup-Data-Analytics/assets/87636522/68e5414a-eb63-43ff-91a1-b82fd938f6ac)
-![icons8-pandas-144](https://github.com/rounakgarg68/T20-Cricket-WorldCup-Data-Analytics/assets/87636522/16cd219c-94c1-44c3-a887-21230dc1580f)
-![icons8-jupyter-144](https://github.com/rounakgarg68/T20-Cricket-WorldCup-Data-Analytics/assets/87636522/b78d03dc-4a41-4cb3-9262-06ab5e8c2b66)
+![icons8-power-bi-144](https://github-production-user-asset-6210df.s3.amazonaws.com/87636522/240795238-2d4e9755-ab55-4430-baf1-4a1fb60bb27a.png) 
+![icons8-python-144](https://github-production-user-asset-6210df.s3.amazonaws.com/87636522/240794574-68e5414a-eb63-43ff-91a1-b82fd938f6ac.png)
+![icons8-pandas-144](https://github-production-user-asset-6210df.s3.amazonaws.com/87636522/240799813-16cd219c-94c1-44c3-a887-21230dc1580f.png)
+![icons8-jupyter-144](https://github-production-user-asset-6210df.s3.amazonaws.com/87636522/240800367-b78d03dc-4a41-4cb3-9262-06ab5e8c2b66.png)
           
 # Description
 
@@ -24,7 +24,7 @@
 #### 8 - Analyze the Data and get top 11 players in the world.
 
 # ScreenShot Of Dashboard
-![Screenshot (3)](https://github.com/rounakgarg68/T20-Cricket-WorldCup-Data-Analytics/assets/87636522/1b090e7a-ed09-4717-a42a-13c8cf7825c1)
+![Screenshot (3)](https://github-production-user-asset-6210df.s3.amazonaws.com/87636522/240604291-1b090e7a-ed09-4717-a42a-13c8cf7825c1.png)
 
 
 
